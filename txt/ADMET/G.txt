@@ -1,0 +1,15 @@
+<div style="font-size:16px;">
+Here's the brief report on G.
+
+1. Absorption:
+   - G is orally administered and readily absorbed. 
+   - In the presence of gastric acid, G rapidly dissociates.
+
+2. Metabolism:
+   - G is primarily metabolized in the liver through hydroxylation.
+   - The metabolism process mainly relies on the cytochrome enzyme.
+
+3. Toxicity:
+   - G is generally considered a relatively safe drug.
+   - Short term use usually does not produce serious toxic side effects.
+</div>

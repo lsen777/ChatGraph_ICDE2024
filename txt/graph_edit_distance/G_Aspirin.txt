@@ -1,0 +1,6 @@
+Their graph Edit distance is 2.0<br>
+The optimal node matching is as follows:<br>
+u1<->v1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u2<->v2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u3<->v3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊥<->v4<br>
+u4<->v5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u5<->v6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u6<->v7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u7<->v8<br>
+u8<->v9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u9<->v10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u10<->v11&nbsp;&nbsp;&nbsp;&nbsp;u11<->v12<br>
+u12<->v13

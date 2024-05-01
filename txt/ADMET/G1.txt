@@ -1,0 +1,30 @@
+Here's the translated ADMET report on the compound "G" :
+
+ADMET Report for Compound "G":
+
+1. Absorption:
+
+   - Compound G is orally administered and readily absorbed. It is quickly absorbed in the gastrointestinal tract but may undergo degradation by gastric acid.
+   - Following absorption, Compound G undergoes rapid metabolism in the gastrointestinal wall and liver, converting into salicylic acid.
+
+2. Distribution:
+
+   - Compound G and its metabolite, salicylic acid, are widely distributed throughout the body.
+   - Compound G can cross the blood-brain barrier and enter the central nervous system, but the passage of salicylic acid is limited.
+
+3. Metabolism:
+
+   - Compound G is primarily metabolized in the liver through hydroxylation, resulting in the formation of salicylic acid.
+   - The metabolism process mainly relies on the cytochrome P450 enzyme system in the liver.
+
+4. Excretion:
+
+   - Compound G and its metabolite, salicylic acid, are predominantly eliminated through renal excretion.
+   - Compound G is excreted in the urine as inactive metabolites.
+
+5. Toxicity:
+
+   - Compound G is generally considered a relatively safe drug. However, at high doses or with prolonged use, it may cause adverse gastrointestinal effects such as gastric ulcers and bleeding.
+   - Prolonged use of Compound G may also increase the risk of bleeding and have adverse effects on the kidneys and liver.
+
+Please note that this ADMET report provides a general overview of the properties and characteristics of Compound G (equivalent to aspirin) and does not cover all possible details. Further research and evaluation are necessary in the actual drug development and usage process to ensure safety and efficacy. For more detailed and accurate ADMET information, it is recommended to refer to relevant research literature and drug databases.
